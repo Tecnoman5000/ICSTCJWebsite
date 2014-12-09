@@ -1,0 +1,55 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<link rel="stylesheet" type="text/css" href="main.css">
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<title>Dark Wall VPN</title>
+</head>
+<body>
+	<a href="home.html">
+		<img src="dark_wall_2-wallpaper-2560x800.png" width="100%" height="200" />
+		<!-- <img src="tBDYUSp.jpg" width="1000" height="200" /> -->
+	</a>
+	<div style="position:absolute; left:12px; top:213px; width: 170px; height: 270px">
+		<table>
+			<tr>
+				<td>
+					<a href="home.html"> Menu </a>
+				<td>
+			</tr>
+			<tr>
+				<td>
+					<a href="services.html"> Services </a>
+				</td>
+			</tr>
+			<tr>
+				<td>
+					<a href="contact.html"> Contact Us </a>
+				</td>
+			</tr>
+			<tr>
+				<td>
+					<a href="about.html"> About Us </a>
+				</td>
+			</tr>
+			<tr>
+				<td>
+					<a href="faq.html"> FAQ </a>
+				</td>
+			</tr>
+		</table>
+	</div>	
+	<div style="position:absolute; left:190px; top:213px; width: 830px; height: 270px">
+		<h1> FAQ </h1>
+		<p> What is a "VPN"? </p>
+		<p> &nbsp; </p>
+		<p> A VPN is a network tunnel that allows traffic to run through a certain point, in our case we take your traffic and tunnel it through our server to encrypt your data. This way all your ISP sees is pure data and can't tell what you are doing. Therefore they can't throttle you for using high bandwidth intensity services, such as Netflix. </p>
+		<p> &nbsp; </p>
+		<p> How does it work? </p>
+		<p> &nbsp; </p>
+		<p> Dark Wall VPN provides state of the art, multi-layered security with advanced privacy protection using VPN tunneling. Please click on the Security Layers found in the right column to learn more about each individual layer. Our services have been designed from the ground up to be able to operate using built-in technology pre-existing in your computer or smartphone device. The services operate at the TCP/IP interface level, which means all of your applications will be secured, not just your web browser.</p>
+		<p> &nbsp; </p>
+		<p>  If you have any more in-depth questions, or feel you have a suggestion for the FAQ, please view our Contact page and get in touch with us there. </p>
+	</div>
+</body>
+</html>

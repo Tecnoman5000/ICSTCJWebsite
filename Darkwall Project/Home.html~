@@ -1,0 +1,52 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<link rel="stylesheet" type="text/css" href="main.css">
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<title>Dark Wall VPN</title>
+</head>
+<body>
+	<a href="home.html">
+		<img src="dark_wall_2-wallpaper-2560x800.png" width="100%" height="200" />
+		<!-- <img src="tBDYUSp.jpg" width="1000" height="200" /> -->
+	</a>
+	<div style="position:absolute; left:12px; top:213px; width: 170px; height: 270px">
+		<table>
+			<tr>
+				<td>
+					<a href="home.html"> Home </a>
+				<td>
+			</tr>
+			<tr>
+				<td>
+					<a href="services.html"> Services </a>
+				</td>
+			</tr>
+			<tr>
+				<td>
+					<a href="contact.html"> Contact Us </a>
+				</td>
+			</tr>
+			<tr>
+				<td>
+					<a href="about.html"> About Us </a>
+				</td>
+			</tr>
+			<tr>
+				<td>
+					<a href="faq.html"> FAQ </a>
+				</td>
+			</tr>
+		</table>
+	</div>	
+	<div style="position:absolute; left:190px; top:213px; width: 830px; height: 270px">
+		<table>
+			<tr>
+				<td>
+					<p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent nec mi nec massa suscipit maximus sit amet vitae arcu. Nullam sed felis a leo iaculis accumsan nec id dui. Integer ornare neque at sem convallis, id pharetra massa vehicula. In hac habitasse platea dictumst. Praesent commodo nulla pretium porta euismod. Pellentesque lobortis in augue non venenatis. Donec aliquam euismod ipsum, vel ultrices enim condimentum id. Donec nec sapien at est feugiat placerat non et justo. Quisque ac risus velit. Nunc commodo urna fermentum ex lobortis, ut aliquam metus imperdiet. Proin lacinia egestas aliquam. Proin ac felis pulvinar ligula laoreet euismod id a dui. Sed lobortis nibh in est pharetra, at lacinia massa iaculis. Etiam dui est, tristique at volutpat et, eleifend id dui. Curabitur vel arcu elit. </p>
+				<td>
+			<tr>
+		</table>
+	</div>
+</body>
+</html>

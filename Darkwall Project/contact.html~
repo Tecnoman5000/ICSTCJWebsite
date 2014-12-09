@@ -1,0 +1,70 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<link rel="stylesheet" type="text/css" href="main.css">
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<title>Dark Wall VPN</title>
+</head>
+<body>
+	<a href="home.html">
+		<img src="dark_wall_2-wallpaper-2560x800.png" width="100%" height="200" />
+		<!-- <img src="tBDYUSp.jpg" width="1000" height="200" /> -->
+	</a>
+	<div style="position:absolute; left:12px; top:213px; width: 170px; height: 270px">
+		<table>
+			<tr>
+				<td>
+					<a href="home.html"> Menu </a>
+				<td>
+			</tr>
+			<tr>
+				<td>
+					<a href="services.html"> Services </a>
+				</td>
+			</tr>
+			<tr>
+				<td>
+					<a href="contact.html"> Contact Us </a>
+				</td>
+			</tr>
+			<tr>
+				<td>
+					<a href="about.html"> About Us </a>
+				</td>
+			</tr>
+			<tr>
+				<td>
+					<a href="faq.html"> FAQ </a>
+				</td>
+			</tr>
+		</table>
+	</div>	
+	<div style="position:absolute; left:190px; top:213px; width: 830px; height: 270px">
+		<table>
+			<tr>
+				<td>
+					<div id="content">
+						<p>Please Contact Us with any questions or concerns:</p>
+						<p></p>
+						<form id="contact" method="post" action="mail.php">
+							<div class="row1"> <span class="formlabel">your name</span> <span class="forminput">
+								<input required type="input" name="name" />
+							</span> </div>
+							<div class="row1"> <span class="formlabel">your email address</span> <span class="forminput">
+								<input required type="email" name="email" />
+							</span> </div>
+							<div class="row1"> <span class="formlabel">your enquiry</span> <span class="forminput">
+								<textarea required cols="28" rows="11" name="enquiry" class="textarea"></textarea>
+							</span> </div>
+							<div class="spacer">&nbsp;</div>
+							<div class="row1"> <span class="formlabel"></span> <span class="forminput">
+								<input type="submit" value="Submit" class="submit" />
+							</span> </div>
+						</form>
+					</div>				
+				<td>
+			<tr>
+		</table>
+	</div>
+</body>
+</html>
